@@ -1,2 +1,2 @@
 #  React App simple-calc
-testing testing testings
+testing 
