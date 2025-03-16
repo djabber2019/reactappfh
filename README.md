@@ -1,1 +1,1 @@
-React apppppp simple calc 
+React App simple-calc 
